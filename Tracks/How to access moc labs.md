@@ -23,7 +23,7 @@ and activate Lab environment 2 to complete module 2 while lab environment 1 cont
 
 ### Environment Duration
 Each Lab environment has two characteristics. Let us take a moment to understand them.<br><br>
-• Course Environment Duration: Available as per the request for example user asked for AZ-900 for 3 month, in this case user can access the az-900 course all the anytime in those 3 months. Environment will get deleted after a specified months or days
+• Course Environment Duration: Available as per the request for example user asked for AZ-900 for 3 month, in this case user can access the az-900 course all the anytime in those 3 months. Environment will get deleted after a specified months or days<br><br>
 • Lab\Module Environment Duration: Environment will get deleted after a specified number of hours. E.g, Lab environment 1 duration is 2 Hours since it will be used for 2 to complete various lab modules. 
 
 ## Best Practices/ & Common Troubleshooting:
