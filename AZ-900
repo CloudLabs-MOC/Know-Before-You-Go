@@ -1,1 +1,14 @@
+# AZ-900: Create a VM with PowerShell
 
+Instructor should make sure that the attendees follow the lab guide provided in the environment to perform the lab instead of lab guide from MCW repo. Because few instructions may differ from the provided lab guide and MCW repo lab guide.
+
+Lab Guide Preview URL: [Lab Guide Preview](https://experience.cloudlabs.ai/#/labguidepreview/eb3934e6-1b50-45eb-a1ea-1f2ba362714a)
+
+#### Known issues in Lab Steps
+
+1. Issue in Module 10 Task 2 Step 4 : 
+
+    Unable to create VM using CLI
+    Error: VM customization is not enabled. Please register the subscription for "Microsoft.compute/VMCustomizationPreview".
+
+  ![](Images/Az900lab10.png)
